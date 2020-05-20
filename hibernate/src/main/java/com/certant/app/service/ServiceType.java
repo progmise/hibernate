@@ -3,8 +3,10 @@ package com.certant.app.service;
 import com.certant.app.exceptions.PokedexException;
 import com.certant.app.manager.SessionManager;
 import com.certant.app.model.Type;
+
 import java.util.HashSet;
 import java.util.Set;
+
 import org.hibernate.HibernateException;
 import org.hibernate.Query;
 import org.hibernate.Session;

@@ -6,8 +6,10 @@ import com.certant.app.model.Ability;
 import com.certant.app.model.Evolution;
 import com.certant.app.model.Pokemon;
 import com.certant.app.model.Type;
+
 import java.util.HashSet;
 import java.util.Set;
+
 import org.hibernate.HibernateException;
 import org.hibernate.Query;
 import org.hibernate.Session;
