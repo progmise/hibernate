@@ -1,2 +1,2 @@
-# hibernate
+# Hibernate
 Hibernate examples
