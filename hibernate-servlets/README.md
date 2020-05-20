@@ -14,7 +14,7 @@ Pre-requisitos: Apache Tomcat, MySQL y crear una base de datos llamada 'db_pokem
 
 1 - Una vez buildeado el proyecto, dirigirse al package com.certant.app.dll
 
-2 - Ejecutar la clase DatabaseGenerator.java, ésta clase se encarga de ingresar registros en la base de datos
+2 - Ejecutar la clase principal DatabaseGenerator.java, ésta clase se encarga de ingresar registros en la base de datos
 
 3 - Ejecutar el proyecto, con el Apache Tomcat como servidor, o bien, copiar el .war de la carpeta target, y pegarlo en el directorio de Apache Tomcat .\apache-tomcat-x.x.xx\webapps
 
