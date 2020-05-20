@@ -33,4 +33,4 @@ Nota: El puerto puede variar, dependiendo la configuración del Apache Tomcat, p
 
 4 - Corregir sobrecarga de media de Pokemon, cuando se apretar varias veces el botón 'Buscar' de buscar.html
 
-5 - Mostrar medias de Pokemones, al primer click del 'a' de mostrar.html, ya que recién se carga la lista, al segundo click.
+5 - Mostrar medias de Pokemones, al primer click del 'a' de mostrar.html, ya que recién se carga la lista, al segundo click
